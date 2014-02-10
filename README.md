@@ -3,4 +3,6 @@ helloflask
 Basic Flask directory structure minus the templates folder
 
 To run Hello World program:
-python app.py
+<code>python app.py</code>
+
+Corresponds to <www.taylorbar.net/flask>
