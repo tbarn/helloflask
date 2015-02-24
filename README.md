@@ -1,6 +1,6 @@
 helloflask
 ==========
-Basic Flask directory structure minus the templates folder
+Basic Flask directory structure minus the empty templates folder, which is not used in the basic Hello World app
 
 To run Hello World program:
 <code>python app.py</code>
